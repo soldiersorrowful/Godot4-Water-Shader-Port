@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c4abr8imxbc3d"
+path="res://.godot/imported/waterplane_medium.obj-608eb5eb0b0ada5299ca3ceda87cfef2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/waterplane_medium.obj-608eb5eb0b0ada5299ca3ceda87cfef2.mesh"]
+
+source_file="res://addons/water_shader_prototype_godot4/objects/waterplane/waterplane_medium.obj"
+dest_files=["res://.godot/imported/waterplane_medium.obj-608eb5eb0b0ada5299ca3ceda87cfef2.mesh", "res://.godot/imported/waterplane_medium.obj-608eb5eb0b0ada5299ca3ceda87cfef2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://baifvtm5aroki"
+path="res://.godot/imported/waterplane_low.obj-1da033a21fda7b89e770e6a129013ffe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/waterplane_low.obj-1da033a21fda7b89e770e6a129013ffe.mesh"]
+
+source_file="res://addons/water_shader_prototype_godot4/objects/waterplane/waterplane_low.obj"
+dest_files=["res://.godot/imported/waterplane_low.obj-1da033a21fda7b89e770e6a129013ffe.mesh", "res://.godot/imported/waterplane_low.obj-1da033a21fda7b89e770e6a129013ffe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
